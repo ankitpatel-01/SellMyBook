@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073782850827",
+    "project_id": "sellmybook-18d4c",
+    "storage_bucket": "sellmybook-18d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073782850827:android:2ffd9dd9dc0622e1e80e0e",
+        "android_client_info": {
+          "package_name": "com.example.sellmybooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073782850827-3e5i6n09pcl92nrn0a5us2ho2o0nn62n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sellmybooks",
+            "certificate_hash": "fe50c7f83434ac8563ff6d37a647df3eb610d02a"
+          }
+        },
+        {
+          "client_id": "1073782850827-od6tvd59d8j0bjfu2vcd73cpf1ka2d0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYlejf-axRQKoh6hMiMyLMhYTuZl1hKSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073782850827-od6tvd59d8j0bjfu2vcd73cpf1ka2d0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
